@@ -23,6 +23,7 @@ Make changes to NEXPresso & push to origin
 
 ```bash
 code NEXPresso/
+yarn && yarn dev
 ```
 
 ### Enjoy development! 🎉
